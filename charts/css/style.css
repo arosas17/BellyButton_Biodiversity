@@ -1,0 +1,16 @@
+.jumbotron {
+    background-color:darkgray;
+}
+
+.well {
+    background-color:darkgray;
+}
+
+.panel-body {
+    background-color:darkgray;
+}
+
+body {
+    background-image:linear-gradient(rgb(14, 29, 235), rgb(255, 0, 0));
+};
+
