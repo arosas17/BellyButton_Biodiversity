@@ -3,7 +3,7 @@
 
 Page link: [https://arosas17.github.io/BellyButton__Biodiversity/](https://arosas17.github.io/BellyButton__Biodiversity/)
 
-Goal: To make the data more manageable and easier to read.
+**Goal**: To make the data more manageable and easier to read.
 
 In the quest to synthesis proteins that imitate the taste of beef, it led a biological researcher to believe the best bacteria to synthesis these proteins live in the belly button of individuals. However, bacterial very even the same spot an can vary greatly.  This project is meant to make the data visual for biological researcher so that it is easier to read and make quick judgments.
 
